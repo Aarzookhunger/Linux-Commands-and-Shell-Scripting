@@ -6,10 +6,8 @@ Created as part of my academic coursework, this practical file serves as a compr
 
 1. [Linux Commands](#linux-commands)
 2. [Shell Scripting](#shell-scripting)
-3. [C++ Programming](#c-programming)
-4. [Contributing](#contributing)
-5. [License](#license)
-
+3. [Operating System Algorithms]
+   
 ## Linux Commands
 
 This section covers the implementation and usage of essential Linux commands.
